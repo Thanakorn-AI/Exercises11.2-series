@@ -4,7 +4,8 @@ module.exports = {
     browser: true,
     es6: true,
     'jest/globals': true,
-    node: true // Fix no-undef for module
+    node: true,
+    'cypress/globals': true
   },
   extends: [
     'eslint:recommended',
@@ -19,7 +20,8 @@ module.exports = {
   },
   plugins: [
     'react',
-    'jest'
+    'jest',
+    'cypress'
   ],
   rules: {
     indent: [
