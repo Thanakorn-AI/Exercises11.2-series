@@ -1,3 +1,4 @@
+// full-stack-open-pokedex/src/ErrorMessage.jsx
 import React from 'react'
 
 const ErrorMessage = ({ error }) => (

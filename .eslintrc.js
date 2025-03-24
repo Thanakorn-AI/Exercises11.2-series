@@ -1,3 +1,4 @@
+// full-stack-open-pokedex/.eslintrc.js
 module.exports = {
   "env": {
     "browser": true,

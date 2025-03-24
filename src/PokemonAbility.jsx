@@ -1,3 +1,4 @@
+// full-stack-open-pokedex/src/PokemonAbility.jsx
 import React from 'react'
 
 const PokemonAbility = ({ abilityName }) => (

@@ -1,3 +1,4 @@
+// full-stack-open-pokedex/src/PokemonPage.jsx
 import React from 'react'
 import { Link, useParams } from 'react-router-dom'
 import LoadingSpinner from './LoadingSpinner'

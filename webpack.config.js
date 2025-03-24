@@ -1,3 +1,4 @@
+// full-stack-open-pokedex/webpack.config.js
 const HtmlWebPackPlugin = require("html-webpack-plugin");
 const path = require('path');
 

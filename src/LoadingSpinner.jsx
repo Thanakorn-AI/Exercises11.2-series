@@ -1,3 +1,4 @@
+// full-stack-open-pokedex/src/LoadingSpinner.jsx
 import React from 'react'
 
 const LoadingSpinner = () => (
