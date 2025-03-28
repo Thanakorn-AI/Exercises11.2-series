@@ -17,5 +17,6 @@ Start by running `npm install` inside the project folder
 ## Other repositories
 
 Exercises 11.10 to 11.19 = https://github.com/Thanakorn-AI/11.10-11.12.git
+
 Exercises 11.20 to 11.21 = https://github.com/Thanakorn-AI/11.20-11.21.git
 
